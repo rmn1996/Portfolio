@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Raman Agnihotri Portfolio",
     type: "website",
-    url: "",
+    url: "", //"http://ashutoshhathidara.com/
   },
 };
 
