@@ -224,6 +224,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SiddhantSadangi",
+      "name": "Siddhant Sadangi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41324509?v=4",
+      "profile": "https://www.linkedin.com/in/siddhantsadangi/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "vanoop729",
+      "name": "Anoop V",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59723767?v=4",
+      "profile": "https://anoopvarghese.in/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
